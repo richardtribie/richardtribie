@@ -3,7 +3,7 @@
 Full Stack Developer specializing in SaaS platforms, APIs, authentication systems, AI agents, and cloud infrastructure.
 
 ## Technologies
-- PHP / Fat-Free Framework
+- PHP
 - Node.js
 - React / Next.js
 - MySQL
